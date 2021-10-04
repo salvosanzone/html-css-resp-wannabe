@@ -61,7 +61,7 @@ img{
 }
 
 /*PARTE RESPONSIVE*/
-@media screen and (max-width:780px){
+@media screen and (max-width:420px){
   body{
     margin: 0px;
     padding: 0px;
